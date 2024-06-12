@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# Introduction
 <hr>
 
 ## 👨‍💻 About me
